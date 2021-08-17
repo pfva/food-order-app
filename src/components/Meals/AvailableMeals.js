@@ -6,20 +6,20 @@ const DUMMY_MEALS = [
   {
     id: 'm1',
     name: 'Salmon and avocado',
-    description: 'Finest fish and veggies',
+    description: 'Finest fish and vegetables',
     price: 22.99,
   },
   {
     id: 'm2',
     name: 'Ceasar Salad',
-    description: 'A classic',
-    price: 16.5,
+    description: 'A true classic',
+    price: 16.50,
   },
   {
     id: 'm3',
-    name: 'Barbecue Supreme',
-    description: 'American with nutritious protein',
-    price: 12.99,
+    name: 'Chicken Teryaki',
+    description: 'Japanese delicousness',
+    price: 14.99,
   },
   {
     id: 'm4',
